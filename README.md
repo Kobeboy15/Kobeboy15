@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**Kobeboy15/Kobeboy15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### I'm a FrontEnd Developer working in Cebu, The Philippines.
 
-Here are some ideas to get you started:
+##### NOW
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working at [SupaPass](https://www.supapass.com/) as a Web Developer ✨
+
+- ⚙️ I use daily: `.tsx`, `.js`, `.html`, `.css`, `.svg`, `.psd`, `.ai`
+
+- 💬 Ping me about **design**, **frontend development**, **design thinking**
+
+- 🌱 Learning all about **Backend Development**
+
+- 📫 Email me: **kobemichael15@gmail.com**
+
+- ⚡️ Fun fact: I'm a huge fan of Video Games

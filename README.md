@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working at [SupaPass](https://www.supapass.com/) as a Web Developer ✨
 
-- ⚙️ I use daily: `.tsx`, `.js`, `.html`, `.css`, `.svg`, `.psd`, `.ai`
+- ⚙️ I use daily: `.tsx`, `.js`, `.html`, `.css`, `.svg`
 
 - 💬 Ping me about **design**, **frontend development**, **design thinking**
 
@@ -14,4 +14,4 @@
 
 - 📫 Email me: **kobemichael15@gmail.com**
 
-- ⚡️ Fun fact: I'm a huge fan of Video Games
+- ⚡️ Fun fact: I'm a huge fan of Photography and Film-Making

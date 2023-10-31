@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### I'm a FrontEnd Developer.
+#### I'm a FrontEnd Developer and Web Designer.
 
 ##### NOW
 

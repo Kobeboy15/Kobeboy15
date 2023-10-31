@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### I'm a FrontEnd Developer working in The Philippines.
+#### I'm a FrontEnd Developer.
 
 ##### NOW
 

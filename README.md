@@ -8,7 +8,7 @@
 
 - ⚙️ I use daily: `.tsx`, `.js`, `.html`, `.css`, `.svg`
 
-- 💬 Ping me about **design**, **frontend development**, **design thinking**
+- 💬 Ping me about **frontend development**, **design & design thinking**,  **user experience**
 
 - 🌱 Learning all about **Backend Development**
 

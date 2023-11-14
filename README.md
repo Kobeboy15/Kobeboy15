@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### I'm a FrontEnd Developer and Web Designer.
+#### I'm a Frontend sorcerer, crafting web wonders with design finesse.
 
 ##### NOW
 

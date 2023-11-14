@@ -4,7 +4,7 @@
 
 ##### NOW
 
-- 🔭 I’m currently working at [Cloud Employee Inc.](https://cloudemployee.co.uk/) as a Web Developer ✨
+- 🔭 I’m currently working at [Cloud Employee Inc.](https://cloudemployee.co.uk/) as a Frontend Engineer ✨
 
 - ⚙️ I use daily: `.tsx`, `.js`, `.html`, `.css`, `.svg`
 

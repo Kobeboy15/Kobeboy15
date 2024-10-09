@@ -4,7 +4,7 @@
 
 ##### NOW
 
-- 🔭 I’m currently working at [Cloud Employee Inc.](https://cloudemployee.co.uk/) as a Frontend Engineer ✨
+- 🎓 I’m currently attending [Langara College](https://langara.ca/), focusing on Internet and Web Technology 🧑‍💻
 
 - ⚙️ I use daily: `.tsx`, `.js`, `.html`, `.css`, `.svg`
 

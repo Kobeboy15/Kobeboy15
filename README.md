@@ -10,7 +10,7 @@
 
 - 💬 Ping me about **frontend development**, **design & design thinking**,  **user experience**
 
-- 🌱 Learning all about **Backend Development**
+- 🌱 Learning all about **Server Side Rendering and ThreeJS**
 
 - 📫 Email me: **kobemichael15@gmail.com**
 

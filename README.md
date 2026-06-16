@@ -29,26 +29,23 @@ Currently building **Web3 gaming experiences** at **[Yield Guild Games](https://
 
 ---
 
-### 🛠 Tech I Live In
+### 🛠 Tech Stack
 
-```ts
-const stack = {
-  languages:  ["TypeScript", "JavaScript", "HTML", "CSS"],
-  frameworks: ["React", "Next.js", "Vue.js", "Node.js"],
-  styling:    ["TailwindCSS", "SASS", "shadcn/ui"],
-  data:       ["GraphQL", "PostgreSQL", "Prisma", "Supabase"],
-  creative:   ["Three.js", "GSAP", "Figma"],
-};
-```
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
----
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
-### 📊 GitHub Stats
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Kobeboy15&show_icons=true&hide_border=true&theme=tokyonight" height="165" alt="Kobe's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kobeboy15&layout=compact&hide_border=true&theme=tokyonight" height="165" alt="Top languages" />
-</p>
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 
